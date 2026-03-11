@@ -1,0 +1,67 @@
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\appsettings.Development.json
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\appsettings.json
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\task4.staticwebassets.runtime.json
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\task4.staticwebassets.endpoints.json
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\task4.exe
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\task4.deps.json
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\task4.dll
+C:\projects\c#\New folder\New folder\task4\bin\Debug\net8.0\task4.pdb
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.RazorAssemblyInfo.cache
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.RazorAssemblyInfo.cs
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\scopedcss\bundle\task4.styles.css
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\scopedcss\projectbundle\task4.bundle.scp.css
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\staticwebassets.build.json
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\staticwebassets.development.json
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.dll
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\refint\task4.dll
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.pdb
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+C:\projects\c#\New folder\New folder\task4\obj\Debug\net8.0\ref\task4.dll
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\appsettings.json
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\task4.staticwebassets.runtime.json
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\task4.staticwebassets.endpoints.json
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\task4.exe
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\task4.deps.json
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\task4.dll
+C:\Users\Memmedov\Desktop\task4\bin\Debug\net8.0\task4.pdb
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.RazorAssemblyInfo.cache
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.RazorAssemblyInfo.cs
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\scopedcss\bundle\task4.styles.css
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\scopedcss\projectbundle\task4.bundle.scp.css
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.dll
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\refint\task4.dll
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.pdb
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+C:\Users\Memmedov\Desktop\task4\obj\Debug\net8.0\ref\task4.dll
